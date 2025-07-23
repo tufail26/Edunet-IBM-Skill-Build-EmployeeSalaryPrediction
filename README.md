@@ -80,12 +80,6 @@ An end-to-end **Streamlit-based ML application** featuring:
 
 ---
 
-## 🌍 **Live Demo**
-
-🔗 (https://smartsalarypredictor.onrender.com/about-tech)](https://smartsalarypredictor.onrender.com/)
-
----
-
 ## 👨‍💼 **My Role**
 
 * Designed the overall system and workflows
@@ -114,7 +108,7 @@ An end-to-end **Streamlit-based ML application** featuring:
 ## 🛠️ **Source Code**
 
 ```bash
-git clone [https://github.com/DurgaPrasadPapugani/employee-salary-app.git](https://github.com/DurgA-5/SalaryPredictor.git)
+[git clone ](https://github.com/tufail26/Edunet-IBM-Skill-Build-EmployeeSalaryPrediction.git)
 ```
 
 ---
